@@ -53,6 +53,7 @@ function onUpdateIsDone(task) {
         }
     });
     return task;
+    
 }
 
 /**
